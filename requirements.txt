@@ -1,0 +1,11 @@
+cartopy
+clouddrift
+cmocean
+dask
+jaxparrow
+jupyterlab
+matplotlib
+netcdf4
+numpy
+xarray
+zarr
